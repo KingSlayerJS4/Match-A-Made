@@ -1,0 +1,1 @@
+import React from 'react'; const Home = () => <div>Welcome to Match-A-Maid!</div>; export default Home;
